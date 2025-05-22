@@ -1,4 +1,4 @@
-# Build Your Own Blockchain 🧱🔗
+# Build Your Own Blockchain 🔗
 
 A beginner-friendly Python project that demonstrates how a simple blockchain works — from creating blocks to linking them using cryptographic hashes. Ideal for learning the fundamentals behind blockchain technology without the complexity of distributed networks or mining.
 
@@ -36,7 +36,7 @@ Enter transaction data (or type 'exit' to finish): exit
 
 4. View the final blockchain printed on the console.
 
-📄 Sample Output:
+## 📄 Sample Output:
 Blockchain contents:
 
 Index: 0
@@ -58,3 +58,10 @@ Index: 3
 Data: B GIVES MONEY TO C
 Previous Hash: db35e7380251c0faf7158e87720c43aa475a36c5ac2e4003638c4db95584c903
 Hash: 9cfe7995b667322afbcb0b76d77cf8dd15b3960a3199a779ae5abfa26b4241c2
+
+🔧 Future Improvements
+- ✅ Add blockchain integrity verification
+- ⛏️ Implement simple proof-of-work
+- 💾 Save/load blockchain from file
+- 🖼️ Visualize blockchain with a GUI
+- ⚙️ Experiment with smart contract logic
