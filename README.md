@@ -59,7 +59,7 @@ Data: B GIVES MONEY TO C
 Previous Hash: db35e7380251c0faf7158e87720c43aa475a36c5ac2e4003638c4db95584c903
 Hash: 9cfe7995b667322afbcb0b76d77cf8dd15b3960a3199a779ae5abfa26b4241c2
 
-🔧 Future Improvements
+## 🔧 Future Improvements
 - ✅ Add blockchain integrity verification
 - ⛏️ Implement simple proof-of-work
 - 💾 Save/load blockchain from file
